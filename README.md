@@ -2,7 +2,7 @@
 # Ali Alabiad
 **`Computer Engineering Undergrad @ UCSD`**
 
-#### Hello! I am a second-year Computer Engineering Student at UCSD. While this GitHub profile is here to showcase my expertise and projects, it also documents my progress as I slowly get a better grasp of my interests while also enjoying the process. 
+#### Hello! I am a third-year Computer Engineering Student at UCSD. While this GitHub profile is here to showcase my expertise and projects, it also documents my progress as I slowly get a better grasp of my interests while also enjoying the process. 
 ---
 ### Languages & Tools
 
@@ -27,8 +27,8 @@
 ### Field of Interests
 <ul>
   <li> Robotics </li>
+  <li> Machine Learning </li>
   <li> Computer Vision </li>
-  <li> Artificial Intelligence </li>
 </ul>  
   
 ##  
