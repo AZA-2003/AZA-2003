@@ -23,15 +23,7 @@
 <br />  
 
 ##
-  
-### Field of Interests
-<ul>
-  <li> Robotics </li>
-  <li> Machine Learning </li>
-  <li> Computer Vision </li>
-</ul>  
-  
-##  
+ 
 
 ### Contact Details
 
